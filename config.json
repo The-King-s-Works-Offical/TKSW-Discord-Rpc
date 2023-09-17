@@ -1,0 +1,28 @@
+{
+    "clientId": "1109817401656229938",
+    "rich_presence": {
+        "details": "",
+        "state": "Canızı fazlasıyla yakacağız.",
+        "assets": {
+            "largeImageText": "The King'S Works",
+            "largeImageKey": "tksw",
+            "smallImageText": "Berkay Ocak",
+            "smallImageKey": "berkayocakkk"
+        },
+        "buttons": {
+            "primary": {
+                "label": "The King'S Works",
+                "url": "https://thekngssworks.com"
+            },
+            "secondary": {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/thekngssworks/"
+            }
+        },
+        "timestamps": {
+            "startTimestamp": 1655031460,
+            "endTimestamp": null,
+            "useTimer": false
+        }
+    }
+}
